@@ -22,12 +22,17 @@ body {
     padding: 0.8em;
     display: flex;
     align-items: center;
+    
 
+}
+.content-hyper {
+    font-size: 25px;
 }
 .cabecera .tagline {
     font-weight: normal;
     padding: 0 0 0 1em;
-    font-size: 0.8em;
+    font-size: 0.7em;
+    letter-spacing: 2px;
     
 }
 
