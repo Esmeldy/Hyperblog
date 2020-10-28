@@ -50,4 +50,18 @@ body {
     padding: 1.5em;
 }
 
+.cabecera .tagline {
+    font-weight: normal;
+    padding: 0 0 0 1em;
+    font-size: 0.8em;
+}
 
+.footer {
+    background-color: #33A;
+    text-align: center;
+    padding: 1px;
+    color: #fff;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 1.3em;
+}
