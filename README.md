@@ -18,5 +18,7 @@ Aprendemos muchas cosas sobre Git, entre ellas:
 -probando cherry-pick
 -ejemplos en linux y MAc
 
+-risas y mas risas
+-locura de curso
 
 Hay que disfrutarlo, merece la pena
