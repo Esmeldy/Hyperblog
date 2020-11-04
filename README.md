@@ -15,5 +15,8 @@ Aprendemos muchas cosas sobre Git, entre ellas:
 - Repositorios remotos con Http y SSH
 - Pull Request
 - Fork y mucho más...:tw-1f63a:
+-probando cherry-pick
+-ejemplos en linux y MAc
+
 
 Hay que disfrutarlo, merece la pena
