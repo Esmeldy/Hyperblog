@@ -17,6 +17,6 @@ Aprendemos muchas cosas sobre Git, entre ellas:
 - Fork y mucho más...:tw-1f63a:
 -probando cherry-pick
 -ejemplos en linux y MAc
-
+-risas y mas risas
 
 Hay que disfrutarlo, merece la pena
